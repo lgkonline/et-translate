@@ -39,6 +39,9 @@
         "staff_closed_inventory_item": "Transfered skin",
         "From case": "From case",
         "Show details": "Show details",
-        "Sold for T-Coins": "Sold for T-Coins"
+        "Sold for T-Coins": "Sold for T-Coins",
+        "Select all": "Select all",
+        "Sell selected items for": "Sell selected items for",
+        "Request transaction for selected items": "Request transaction for selected items"
     }
 }
