@@ -43,6 +43,9 @@
         "Select all": "Alle auswählen",
         "Sell selected items for": "Ausgewählte verkaufen für",
         "Request transaction for selected items": "Ausgewählte beantragen",
-        "Please wait": "Bitte warten..."
+        "Please wait": "Bitte warten...",
+        "opened cases": "geöffnete Cases",
+        "registered users": "registrierte User",
+        "online users": "User online"
     }
 }
