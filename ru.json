@@ -10,7 +10,7 @@
         "Privacy Policy": "Политика конфиденциальности",
         "This case contains": "Этот ящик содержит в себе",
         "Winning chance": "Шанс на выигрыш",
-        "Welcome user": "Добро пожаловать, {{пользователь}}!",
+        "Welcome user": "Добро пожаловать, {{user}}!",
         "Free test": "Бесплатная попытка",
         "Open case": "Open for {{prize}} T-Coins",
         "Inventory": "Инвентарь",
