@@ -46,6 +46,8 @@
         "Please wait": "Bitte warten...",
         "opened cases": "geöffnete Cases",
         "registered users": "registrierte User",
-        "online users": "User online"
+        "online users": "User online",
+        "Your Standoff 2 account": "Dein Standoff 2 Account",
+        "STANDOFF2_ID_DUPLICATE": "Diese Standoff2 ID wird bereits von einem anderen Account verwendet"
     }
 }

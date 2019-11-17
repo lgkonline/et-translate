@@ -46,6 +46,8 @@
         "Please wait": "Пожалуйста, подождите...",
         "opened cases": "Открытые кейсы",
         "registered users": "зарегестрированные пользователи",
-        "online users": "пользователей онлайн"
+        "online users": "пользователей онлайн",
+        "Your Standoff 2 account": "Your Standoff 2 account",
+        "STANDOFF2_ID_DUPLICATE": "This Standoff2 ID is already in use by another account"
     }
 }
