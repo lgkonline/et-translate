@@ -12,7 +12,7 @@
         "Winning chance": "Шанс на выигрыш",
         "Welcome user": "Добро пожаловать, {{user}}!",
         "Free test": "Бесплатная попытка",
-        "Open case": "Open for {{prize}} T-Coins",
+        "Open case": "Open for {{prize}} Coins",
         "Inventory": "Инвентарь",
         "Added": "Добавил",
         "Check result": "Узнать результат",
@@ -26,7 +26,7 @@
         "Sell for": "Продать за",
         "Request transaction": "Запросить вывод",
         "Cases": "Кейсы",
-        "Get T-Coins": "Получить T-Coins",
+        "Get Coins": "Получить Coins",
         "Locked by": "Залочено на",
         "Edit": "Изменить",
         "Skip animation": "Пропустить анимацию",
@@ -39,7 +39,7 @@
         "staff_closed_inventory_item": "Transfered skin",
         "From case": "Из ящика",
         "Show details": "Показать детали",
-        "Sold for T-Coins": "Продано за T-Coins",
+        "Sold for Coins": "Продано за Coins",
         "Select all": "Выбрать всё",
         "Sell selected items for": "Продать выбранные предметы за",
         "Request transaction for selected items": "Запросить вывод выбранных предметов",
@@ -60,6 +60,10 @@
         "Profile image the user should use in-game": "Profile image the user should use in-game",
         "Nothing found": "Nothing found",
         "Contact support": "Contact support",
-        "Your result": "Your result"
+        "Your result": "Your result",
+        "STANDOFF2_ID_NOT_SET": "Your Standoff 2 ID is not set",
+        "My tickets": "My tickets",
+        "Open": "Open",
+        "Closed": "Closed"
     }
 }

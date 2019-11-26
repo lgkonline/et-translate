@@ -12,7 +12,7 @@
         "Winning chance": "Gewinnchance",
         "Welcome user": "Willkommen, {{user}}!",
         "Free test": "Kostenloser Test",
-        "Open case": "Für {{prize}} T-Coins öffnen",
+        "Open case": "Für {{prize}} Coins öffnen",
         "Inventory": "Inventar",
         "Added": "Hinzugefügt",
         "Check result": "Ergebnis prüfen",
@@ -26,7 +26,7 @@
         "Sell for": "Verkaufen für",
         "Request transaction": "Beantragen",
         "Cases": "Cases",
-        "Get T-Coins": "T-Coins bekommen",
+        "Get Coins": "Coins bekommen",
         "Locked by": "Gesperrt von",
         "Edit": "Bearbeiten",
         "Skip animation": "Animation überspringen",
@@ -39,7 +39,7 @@
         "staff_closed_inventory_item": "Skin übertragen",
         "From case": "Aus dem Case",
         "Show details": "Details anzeigen",
-        "Sold for T-Coins": "Für T-Coins verkauft",
+        "Sold for Coins": "Für Coins verkauft",
         "Select all": "Alle auswählen",
         "Sell selected items for": "Ausgewählte verkaufen für",
         "Request transaction for selected items": "Ausgewählte beantragen",
@@ -60,6 +60,10 @@
         "Profile image the user should use in-game": "Profil-Bild, das der User im Spiel nutzen soll",
         "Nothing found": "Nichts gefunden",
         "Contact support": "Support kontaktieren",
-        "Your result": "Dein Ergebnis"
+        "Your result": "Dein Ergebnis",
+        "STANDOFF2_ID_NOT_SET": "Deine Standoff 2 ID ist nicht gesetzt",
+        "My tickets": "Meine Tickets",
+        "Open": "Offen",
+        "Closed": "Geschlossen"
     }
 }
