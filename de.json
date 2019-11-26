@@ -48,6 +48,18 @@
         "registered users": "registrierte User",
         "online users": "User online",
         "Your Standoff 2 account": "Dein Standoff 2 Account",
-        "STANDOFF2_ID_DUPLICATE": "Diese Standoff2 ID wird bereits von einem anderen Account verwendet"
+        "STANDOFF2_ID_DUPLICATE": "Diese Standoff2 ID wird bereits von einem anderen Account verwendet",
+        "Save": "Speichern",
+        "Shop": "Shop",
+        "Tickets": "Tickets",
+        "Show winning chances": "Gewinnchancen anzeigen",
+        "Skin": "Skin",
+        "Area": "Bereich",
+        "Demo Spin": "Demo Spin",
+        "NO_ANSWER": "Keine Antwort",
+        "Profile image the user should use in-game": "Profil-Bild, das der User im Spiel nutzen soll",
+        "Nothing found": "Nichts gefunden",
+        "Contact support": "Support kontaktieren",
+        "Your result": "Dein Ergebnis"
     }
 }

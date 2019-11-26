@@ -48,6 +48,18 @@
         "registered users": "registered users",
         "online users": "users online",
         "Your Standoff 2 account": "Your Standoff 2 account",
-        "STANDOFF2_ID_DUPLICATE": "This Standoff2 ID is already in use by another account"
+        "STANDOFF2_ID_DUPLICATE": "This Standoff2 ID is already in use by another account",
+        "Save": "Save",
+        "Shop": "Shop",
+        "Tickets": "Tickets",
+        "Show winning chances": "Show winning chances",
+        "Skin": "Skin",
+        "Area": "Area",
+        "Demo Spin": "Demo Spin",
+        "NO_ANSWER": "No answer",
+        "Profile image the user should use in-game": "Profile image the user should use in-game",
+        "Nothing found": "Nothing found",
+        "Contact support": "Contact support",
+        "Your result": "Your result"
     }
 }
