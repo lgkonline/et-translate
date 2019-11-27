@@ -64,6 +64,7 @@
         "STANDOFF2_ID_NOT_SET": "Your Standoff 2 ID is not set",
         "My tickets": "My tickets",
         "Open": "Open",
-        "Closed": "Closed"
+        "Closed": "Closed",
+        "/how-it-works": "/how-it-works"
     }
 }
