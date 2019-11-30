@@ -66,6 +66,14 @@
         "Open": "Open",
         "Closed": "Closed",
         "/how-it-works": "/how-it-works",
-        "Buy": "Buy"
+        "Buy": "Buy",
+        "EMAIL": {
+            "current_user_requested_skins": {
+                "Hello name": "Hello {{name}},",
+                "you just requested the transfer process of a skin from your inventory": "you just requested the transfer process of a skin from your inventory.",
+                "On the next step one of our staff members will get in contact with you": "On the next step one of our staff members will get in contact with you.",
+                "Thanks for using EasyTradebet": "Thanks for using EasyTrade.bet!"
+            }
+        }
     }
 }

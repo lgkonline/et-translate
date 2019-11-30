@@ -66,6 +66,11 @@
         "Open": "Offen",
         "Closed": "Geschlossen",
         "/how-it-works": "/how-it-works/wie-es-funktioniert",
-        "Buy": "Kaufen"
+        "Buy": "Kaufen",
+        "EMAIL": {
+            "current_user_requested_skins": {
+                "Hello name": "Hallo {{name}},"
+            }
+        }
     }
 }
