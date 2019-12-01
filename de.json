@@ -66,10 +66,16 @@
         "Open": "Offen",
         "Closed": "Geschlossen",
         "/how-it-works": "/how-it-works/wie-es-funktioniert",
-        "Buy": "Kaufen",
+        "Buy": "Kaufe",
         "EMAIL": {
+            "Hello name": "Hallo {{name}},",
+            "Thanks for using EasyTradebet": "Danke, dass du EasyTrade.bet nutzt!",
             "current_user_requested_skins": {
-                "Hello name": "Hallo {{name}},"
+                "you just requested the transfer process of a skin from your inventory": "you just requested the transfer process of a skin from your inventory.",
+                "On the next step one of our staff members will get in contact with you": "On the next step one of our staff members will get in contact with you."
+            },
+            "ticket_completed": {
+                "we just completed a transaction to your account": "we just completed a transaction to your account."
             }
         }
     }
