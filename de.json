@@ -78,6 +78,28 @@
                 "we just completed a transaction to your account": "we just completed a transaction to your account."
             }
         },
-        "GET_SKINS_ON_GOLD_INFO": "EasyTrade.bet liefert die gewonnenen Skins in Form von Gold in Standoff 2, bis das Trade Update erscheint! (Wir übernehmen die Marktplatzgebühr!)"
+        "GET_SKINS_ON_GOLD_INFO": "EasyTrade.bet liefert die gewonnenen Skins in Form von Gold in Standoff 2, bis das Trade Update erscheint! (Wir übernehmen die Marktplatzgebühr!)",
+        "You didn't set a Standoff 2 ID": "Du hast keine Standoff 2 ID gesetzt",
+        "Go to settings": "Zu den Einstellungen",
+        "My profile": "Mein Profil",
+        "My account": "Mein Account",
+        "Logout": "Logout",
+        "Download": "Download",
+        "Problems with the download?": "Probleme mit dem Download?",
+        "Some mobile browsers don't allow direct downloads": "Manche mobile Browser erlauben keine direkten Downloads. Stattdessen, tippe auf das Bild und halte gedrückt, bis ein Dropdown-Menü erscheint, welches dir erlaubt, das Bild zu speichern.",
+        "Show profile": "Profil anzeigen",
+        "Go to case": "Zur Case",
+        "My Standoff 2 account": "Mein Standoff 2 Account",
+        "Show as customer": "Als Kunde anzeigen",
+        "Unlock": "Entsperren",
+        "Lock": "Sperren",
+        "Close ticket and unlock": "Ticket schließen und entsperren",
+        "Screenshot of user's marketplace entry": "Screenshot vom Marketplace-Eintrag vom Nutzer",
+        "Download this generated picture and use it on your Standoff 2 account": "Downloade dieses generierte Bild und nutze es bei deinem Standoff 2 Account.",
+        "Now, sell a skin (worth at least x-factor) on the market for": "Now, sell a skin (worth at least x-factor) on the market for",
+        "Finally, take a screenshot of the marketplace entry and upload it here": "Finally, take a screenshot of the marketplace entry and upload it here",
+        "Wait until you get notified and a staff member transfered your Gold": "Wait until you get notified and a staff member transfered your Gold",
+        "Public view": "Öffentliche Ansicht",
+        "Items": "Items"
     }
 }
