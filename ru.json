@@ -77,6 +77,36 @@
             "ticket_completed": {
                 "we just completed a transaction to your account": "we just completed a transaction to your account."
             }
-        }
+        },
+        "GET_SKINS_AS_GOLD_INFO": "EasyTrade.bet delivers the won skins in the form of gold in Standoff 2 until the trading update appears! (We take over the marketplace fee!)",
+        "You didn't set a Standoff 2 ID": "You didn't set a Standoff 2 ID",
+        "Go to settings": "Go to settings",
+        "My profile": "My profile",
+        "My account": "My account",
+        "Logout": "Logout",
+        "Download": "Download",
+        "Problems with the download?": "Problems with the download?",
+        "Some mobile browsers don't allow direct downloads": "Some mobile browsers don't allow direct downloads. Instead, tap and hold on the image until a dropdown menu appears which allows you to save the image on your device.",
+        "Show profile": "Show profile",
+        "Go to case": "Go to case",
+        "My Standoff 2 account": "My Standoff 2 account",
+        "Show as customer": "Show as customer",
+        "Unlock": "Unlock",
+        "Lock": "Lock",
+        "Close ticket and unlock": "Close ticket and unlock",
+        "Screenshot of user's marketplace entry": "Screenshot of user's marketplace entry",
+        "Download this generated picture and use it on your Standoff 2 account": "Download this generated picture and use it on your Standoff 2 account",
+        "Now, sell a skin (worth at least x-factor) on the market for": "Now, sell a skin (worth at least x-factor) on the market for",
+        "Finally, take a screenshot of the marketplace entry and upload it here": "Finally, take a screenshot of the marketplace entry and upload it here",
+        "Wait until you get notified and a staff member transfered your Gold": "Wait until you get notified and a staff member transfered your Gold",
+        "Public view": "Public view",
+        "Items": "Items",
+        "Payment via": "Payment via",
+        "Show logs": "Show logs",
+        "Logs": "Logs",
+        "Close ticket": "Close ticket",
+        "Show conversation": "Show conversation",
+        "Start conversation": "Start conversation",
+        "Set avatar via Gravatar": "Set avatar via Gravatar"
     }
 }

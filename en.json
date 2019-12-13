@@ -100,6 +100,13 @@
         "Finally, take a screenshot of the marketplace entry and upload it here": "Finally, take a screenshot of the marketplace entry and upload it here",
         "Wait until you get notified and a staff member transfered your Gold": "Wait until you get notified and a staff member transfered your Gold",
         "Public view": "Public view",
-        "Items": "Items"
+        "Items": "Items",
+        "Payment via": "Payment via",
+        "Show logs": "Show logs",
+        "Logs": "Logs",
+        "Close ticket": "Close ticket",
+        "Show conversation": "Show conversation",
+        "Start conversation": "Start conversation",
+        "Set avatar via Gravatar": "Set avatar via Gravatar"
     }
 }

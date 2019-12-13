@@ -100,6 +100,13 @@
         "Finally, take a screenshot of the marketplace entry and upload it here": "Finally, take a screenshot of the marketplace entry and upload it here",
         "Wait until you get notified and a staff member transfered your Gold": "Wait until you get notified and a staff member transfered your Gold",
         "Public view": "Öffentliche Ansicht",
-        "Items": "Items"
+        "Items": "Items",
+        "Payment via": "Bezahlung via",
+        "Show logs": "Logs anzeigen",
+        "Logs": "Logs",
+        "Close ticket": "Ticket schließen",
+        "Show conversation": "Konversation zeigen",
+        "Start conversation": "Konversation starten",
+        "Set avatar via Gravatar": "Avatar über Gravatar setzen"
     }
 }
