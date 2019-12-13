@@ -76,6 +76,9 @@
             },
             "ticket_completed": {
                 "we just completed a transaction to your account": "we just completed a transaction to your account."
+            },
+            "ticket_comment": {
+                "author just posted a comment under the folling ticket": "{{author}} just posted a comment under the folling ticket:"
             }
         },
         "GET_SKINS_AS_GOLD_INFO": "EasyTrade.bet delivers the won skins in the form of gold in Standoff 2 until the trading update appears! (We take over the marketplace fee!)",
@@ -107,6 +110,7 @@
         "Close ticket": "Close ticket",
         "Show conversation": "Show conversation",
         "Start conversation": "Start conversation",
-        "Set avatar via Gravatar": "Set avatar via Gravatar"
+        "Set avatar via Gravatar": "Set avatar via Gravatar",
+        "New comment": "New comment"
     }
 }
