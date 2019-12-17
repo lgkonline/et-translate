@@ -99,7 +99,7 @@
         "Close ticket and unlock": "Close ticket and unlock",
         "Screenshot of user's marketplace entry": "Screenshot of user's marketplace entry",
         "Download this generated picture and use it on your Standoff 2 account": "Download this generated picture and use it on your Standoff 2 account",
-        "Now, sell a skin (worth at least x-factor) on the market for": "Now, sell a skin (worth at least x-factor) on the market for",
+        "Now, sell a skin (worth at least x-factor) on the market for": "Now, sell a skin on the market for",
         "Finally, take a screenshot of the marketplace entry and upload it here": "Finally, take a screenshot of the marketplace entry and upload it here",
         "Wait until you get notified and a staff member transfered your Gold": "Wait until you get notified and a staff member transfered your Gold",
         "Public view": "Public view",
@@ -134,6 +134,11 @@
         "FAQ_Our staff team would never ask for any personal information or skins": "Our staff team would never ask for any personal information or skins. Our staff team will only send you a verification message and nothing more. After that you will need to accept the trader offer in order to get the skins.",
         "PROVABLY_FAIR_INFO_LINK": "https://landing.easytrade.bet/wp/what-happens-when-you-open-a-case/",
         "Find out more information about our provably fair on this page": "Find out more information about our provably fair on this page:",
-        "FAQ": "FAQ"
+        "FAQ": "FAQ",
+        "No limit": "No limit",
+        "Get notified": "Get notified",
+        "about promo actions and more!": "about promo actions and more!",
+        "Worth of the skin the user has to sell has to be atleast": "Worth of the skin the user has to sell has to be atleast",
+        "Worth of the skin you sell has to be atleast": "Worth of the skin you sell has to be atleast"
     }
 }
