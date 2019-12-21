@@ -139,6 +139,18 @@
         "Worth of the skin the user has to sell has to be atleast": "Скин, который клиент должен выставить на рынок должен стоить не меньше",
         "Worth of the skin you sell has to be atleast": "Стоимость скина, который вы должны продать должна быть не меньше",
         "LUXURY": "VIP case",
-        "Featured": "Рекомендуемые"
+        "Featured": "Рекомендуемые",
+        "Value": "Value",
+        "Get your free case now!": "Get your free case now!",
+        "Buy for": "Buy for",
+        "To create request, combine with other items": "To create request, combine with other items",
+        "Have a coupon?": "Have a coupon?",
+        "Enter it here": "Enter it here",
+        "Apply": "Apply",
+        "Notation": "Notation",
+        "Nothing uploaded yet": "Nothing uploaded yet",
+        "After transaction upload screenshot": "After transaction upload screenshot",
+        "Make sure, the amount of offers of the skin on the market is not higher than 2500": "Make sure, the amount of offers of the skin on the market is not higher than 2500",
+        "Missing value for request": "Missing value for request"
     }
 }
