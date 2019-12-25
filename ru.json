@@ -151,6 +151,11 @@
         "Nothing uploaded yet": "Nothing uploaded yet",
         "After transaction upload screenshot": "After transaction upload screenshot",
         "Make sure, the amount of offers of the skin on the market is not higher than 2500": "Make sure, the amount of offers of the skin on the market is not higher than 2500",
-        "Missing value for request": "Missing value for request"
+        "Missing value for request": "Missing value for request",
+        "Last edit by": "Last edit by",
+        "This site uses cookies to improve your user experience": "This site uses cookies to improve your user experience.",
+        "Read more about it": "Read more about it",
+        "I don't care about cookies!": "I don't care about cookies!",
+        "Okay": "Okay"
     }
 }
