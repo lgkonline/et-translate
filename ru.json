@@ -140,17 +140,18 @@
         "Worth of the skin you sell has to be atleast": "Стоимость скина, который вы должны продать должна быть не меньше",
         "LUXURY": "VIP case",
         "Featured": "Рекомендуемые",
-        "Value": "Value",
-        "Get your free case now!": "Get your free case now!",
-        "Buy for": "Buy for",
-        "To create request, combine with other items": "To create request, combine with other items",
-        "Have a coupon?": "Have a coupon?",
-        "Enter it here": "Enter it here",
-        "Apply": "Apply",
-        "Notation": "Notation",
-        "Nothing uploaded yet": "Nothing uploaded yet",
-        "After transaction upload screenshot": "After transaction upload screenshot",
+        "Value": "Ценность",
+        "Get your free case now!": "Получи бесплатный кейс прямо сейчас!",
+        "Buy for": "Купить за",
+        "To create request, combine with other items": "Для создания заявки на вывод, добавьте к этому предмету несколько других",
+        "Have a coupon?": "У вас есть промокод?",
+        "Enter it here": "Введите его здесь",
+        "Apply": "Применить",
+        "Notation": "Пометка",
+        "Nothing uploaded yet": "Вы ничего не загрузили",
+        "After transaction upload screenshot": "Залейте скрин после выполнения заявки",
         "Make sure, the amount of offers of the skin on the market is not higher than 2500": "Пожалуйста, убедитесь, что количество предложений на рынке выставленного вами скина не превышает 2 500. ",
         "Missing value for request": "Сумма вывода меньше минимально допустимого значения"
+        
     }
 }
