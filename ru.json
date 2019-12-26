@@ -151,7 +151,12 @@
         "Nothing uploaded yet": "Вы ничего не загрузили",
         "After transaction upload screenshot": "Залейте скрин после выполнения заявки",
         "Make sure, the amount of offers of the skin on the market is not higher than 2500": "Пожалуйста, убедитесь, что количество предложений на рынке выставленного вами скина не превышает 2 500. ",
-        "Missing value for request": "Сумма вывода меньше минимально допустимого значения"
-        
+        "Missing value for request": "Сумма вывода меньше минимально допустимого значения",
+        "Last edit by": "Last edit by",
+        "This site uses cookies to improve your user experience": "This site uses cookies to improve your user experience.",
+        "Read more about it": "Read more about it",
+        "I don't care about cookies!": "I don't care about cookies!",
+        "Okay": "Okay",
+        "/partnership": "/partnership/партнерство"
     }
 }
