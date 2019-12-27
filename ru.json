@@ -152,11 +152,36 @@
         "After transaction upload screenshot": "Залейте скрин после выполнения заявки",
         "Make sure, the amount of offers of the skin on the market is not higher than 2500": "Пожалуйста, убедитесь, что количество предложений на рынке выставленного вами скина не превышает 2 500. ",
         "Missing value for request": "Сумма вывода меньше минимально допустимого значения",
-        "Last edit by": "Last edit by",
-        "This site uses cookies to improve your user experience": "This site uses cookies to improve your user experience.",
-        "Read more about it": "Read more about it",
-        "I don't care about cookies!": "I don't care about cookies!",
-        "Okay": "Okay",
+        "Last edit by": "Последнее изменение внёс",
+        "This site uses cookies to improve your user experience": "Сайт использует cookies. Это делается для улучшения работы сервиса",
+        "Read more about it": "Подробнее",
+        "I don't care about cookies!": "Я не хочу больше читать про cookies!",
+        "Okay": "ОК",
         "/partnership": "/partnership/партнерство"
+        "Gold rush" :  "Золотая лихорадка" 
+        "Golden Luck" :  "Всё или ничего"
+        "Blue Ice" : "Сибирский холод"
+        "Astronaut" : "Киберпанк" 
+        "Neon Rider" : "Неоновый Урбан"
+        "AK Dream" : "AK 47 forever"
+        "10 % Knife" : "10% на дроп ножа"
+        "Stick it!" : "Стикер Кейс"
+        "Free" : "Бесплатный Кейс"
+        "Rifler" : "Кейс Клатчера"
+        "Sniper" : "Кейс Снайпера"
+        "LURKER" : "Комбо Кейс"
+        "GOLD STACKS" : "Слитки Золота"
+        "Knife Roulette" : "47% на дроп ножа"
+        "Special Offer %%%" : "Специальное предложение"
+        "Recommended" : "Рекомендуемые кейсы"
+        "Limited offer" : "Ограниченная Серия"
+        "Basics" : "Стандартные кейсы"
+        "Influencer" : "Легенды"
+        "Socials" : "Социальные сети"
+        "New Year" : "Новогодний" 
+        "DEMON" : "Жуткий Кейс" 
+        "Economy Knife" : "Доступный кейс с ножом"
+
+        
     }
 }
