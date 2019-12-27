@@ -65,7 +65,7 @@
         "My tickets": "Мои заявки",
         "Open": "Открытые",
         "Closed": "Закрытые",
-        "/how-it-works": "/почему нам можно доверять?",
+        "/how-it-works": "/how-it-works/почему-нам-можно-доверят",
         "Buy": "Купить",
         "EMAIL": {
             "Hello name": "Приветствуем {{name}},",
@@ -157,31 +157,29 @@
         "Read more about it": "Подробнее",
         "I don't care about cookies!": "Я не хочу больше читать про cookies!",
         "Okay": "ОК",
-        "/partnership": "/partnership/партнерство"
-        "Gold rush" :  "Золотая лихорадка" 
-        "Golden Luck" :  "Всё или ничего"
-        "Blue Ice" : "Сибирский холод"
-        "Astronaut" : "Киберпанк" 
-        "Neon Rider" : "Неоновый Урбан"
-        "AK Dream" : "AK 47 forever"
-        "10 % Knife" : "10% на дроп ножа"
-        "Stick it!" : "Стикер Кейс"
-        "Free" : "Бесплатный Кейс"
-        "Rifler" : "Кейс Клатчера"
-        "Sniper" : "Кейс Снайпера"
-        "LURKER" : "Комбо Кейс"
-        "GOLD STACKS" : "Слитки Золота"
-        "Knife Roulette" : "47% на дроп ножа"
-        "Special Offer %%%" : "Специальное предложение"
-        "Recommended" : "Рекомендуемые кейсы"
-        "Limited offer" : "Ограниченная Серия"
-        "Basics" : "Стандартные кейсы"
-        "Influencer" : "Легенды"
-        "Socials" : "Социальные сети"
-        "New Year" : "Новогодний" 
-        "DEMON" : "Жуткий Кейс" 
-        "Economy Knife" : "Доступный кейс с ножом"
-
-        
+        "/partnership": "/partnership/партнерство",
+        "Gold rush": "Золотая лихорадка",
+        "Golden Luck": "Всё или ничего",
+        "Blue Ice": "Сибирский холод",
+        "Astronaut": "Киберпанк",
+        "Neon Rider": "Неоновый Урбан",
+        "AK Dream": "AK 47 forever",
+        "10 % Knife": "10% на дроп ножа",
+        "Stick it!": "Стикер Кейс",
+        "Free": "Бесплатный Кейс",
+        "Rifler": "Кейс Клатчера",
+        "Sniper": "Кейс Снайпера",
+        "LURKER": "Комбо Кейс",
+        "GOLD STACKS": "Слитки Золота",
+        "Knife Roulette": "47% на дроп ножа",
+        "Special Offer %%%": "Специальное предложение",
+        "Recommended": "Рекомендуемые кейсы",
+        "Limited offer": "Ограниченная Серия",
+        "Basics": "Стандартные кейсы",
+        "Influencer": "Легенды",
+        "Socials": "Социальные сети",
+        "New Year": "Новогодний",
+        "DEMON": "Жуткий Кейс",
+        "Economy Knife": "Доступный кейс с ножом"
     }
 }
