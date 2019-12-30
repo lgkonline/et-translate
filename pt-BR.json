@@ -163,6 +163,20 @@
         "Welcome to EasyTrade": "Bem vindo ao EasyTrade.bet",
         "Get more information": "Obtenha mais informções",
         "for free!": "de graça!",
-        "Unlock case": "Unlock case"
+        "Unlock case": "Unlock case",
+        "The screenshot has to be a PNG or JPEG file.": "Der Screenshot muss ein PNG oder JPEG sein.",
+        "Upload error": "Upload error",
+        "Your previous avatar image could not get deleted. Please contact the support.": "Your previous avatar image could not get deleted. Please contact the support.",
+        "This item is already part of a ticket. You can not sell it anymore.": "This item is already part of a ticket. You can not sell it anymore.",
+        "The current user is not the owner of this inventory item.": "The current user is not the owner of this inventory item.",
+        "This item is already part of a ticket. You can not request it anymore.": "This item is already part of a ticket. You can not request it anymore.",
+        "You didn't set a Standoff 2 ID. Please go to your account settings and set one.": "You didn't set a Standoff 2 ID. Please go to your account settings and set one.",
+        "Standoff 2 ID is not set": "Standoff 2 ID is not set",
+        "This inventory item is not locked by you.": "This inventory item is not locked by you.",
+        "Invalid value": "Invalid value",
+        "You are not allowed to update your own Standoff 2 ID. Please ask our support.": "You are not allowed to update your own Standoff 2 ID. Please ask our support.",
+        "Standoff 2 ID update not allowed": "Standoff 2 ID update not allowed",
+        "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Wrong formatted. The ID has to be 8 characters long and only contain numbers.",
+        "Standoff 2 ID is wrong formatted": "Standoff 2 ID is wrong formatted"
     }
 }
