@@ -65,7 +65,7 @@
         "My tickets": "Meus tickets",
         "Open": "Abrir",
         "Closed": "Fechado",
-        "/how-it-works": "/como-funciona",
+        "/how-it-works": "/how-it-works/como-funciona",
         "Buy": "Comprar",
         "EMAIL": {
             "Hello name": "Olá {{name}},",
@@ -157,7 +157,7 @@
         "Read more about it": "Leia mais sobre isso",
         "I don't care about cookies!": "Eu não ligo para cookies!",
         "Okay": "Ok",
-        "/partnership": "/parceria",
+        "/partnership": "/partnership",
         "Edit order": "Editar order",
         "Reload": "Reload",
         "Welcome to EasyTrade": "Bem vindo ao EasyTrade.bet",
