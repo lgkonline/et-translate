@@ -177,6 +177,7 @@
         "You are not allowed to update your own Standoff 2 ID. Please ask our support.": "You are not allowed to update your own Standoff 2 ID. Please ask our support.",
         "Standoff 2 ID update not allowed": "Standoff 2 ID update not allowed",
         "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Wrong formatted. The ID has to be 8 characters long and only contain numbers.",
-        "Standoff 2 ID is wrong formatted": "Standoff 2 ID is wrong formatted"
+        "Standoff 2 ID is wrong formatted": "Standoff 2 ID is wrong formatted",
+        "Make sure, the amount of offers of the skin on the market is not higher than 2500. This makes it easier for us to find your skin.": "Make sure, the amount of offers of the skin on the market is not higher than 2500. This makes it easier for us to find your skin."
     }
 }
