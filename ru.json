@@ -208,6 +208,7 @@
         "You are not allowed to update your own Standoff 2 ID. Please ask our support.": "Чтобы изменить свой Standoff 2 ID,пожалуйста, свяжитесь с администрацией.",
         "Standoff 2 ID update not allowed": "Ошибка. Невозможно изменить Standoff 2 ID ",
         "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Неверный формат. ID состоит из 8 цифр.",
-        "Standoff 2 ID is wrong formatted": "Укажите Standoff 2 ID в корректном формате"
+        "Standoff 2 ID is wrong formatted": "Укажите Standoff 2 ID в корректном формате",
+        "See your requested skins": "See your requested skins"
     }
 }

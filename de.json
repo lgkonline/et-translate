@@ -176,6 +176,7 @@
         "You are not allowed to update your own Standoff 2 ID. Please ask our support.": "Du kannst deine eigene Standoff 2 ID nicht updaten. Bitte frage den Support.",
         "Standoff 2 ID update not allowed": "Standoff 2 ID ändern nicht erlaubt",
         "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Falsch formatiert. Die ID muss 8 Zeichen lang sein und darf nur Ziffern enthalten.",
-        "Standoff 2 ID is wrong formatted": "Standoff 2 ID falsch formatiert"
+        "Standoff 2 ID is wrong formatted": "Standoff 2 ID falsch formatiert",
+        "See your requested skins": "See your requested skins"
     }
 }
