@@ -65,7 +65,7 @@
         "My tickets": "Meine Tickets",
         "Open": "Offen",
         "Closed": "Geschlossen",
-        "/how-it-works": "/how-it-works/wie-es-funktioniert",
+        "/how-it-works": "/how-it-works",
         "Buy": "Kaufe",
         "EMAIL": {
             "Hello name": "Hallo {{name}},",
@@ -177,6 +177,6 @@
         "Standoff 2 ID update not allowed": "Standoff 2 ID ändern nicht erlaubt",
         "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Falsch formatiert. Die ID muss 8 Zeichen lang sein und darf nur Ziffern enthalten.",
         "Standoff 2 ID is wrong formatted": "Standoff 2 ID falsch formatiert",
-        "See your requested skins": "See your requested skins"
+        "See your requested skins": "Deine beantragten Skins"
     }
 }
