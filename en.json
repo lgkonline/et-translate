@@ -179,6 +179,7 @@
         "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Wrong formatted. The ID has to be 8 characters long and only contain numbers.",
         "Standoff 2 ID is wrong formatted": "Standoff 2 ID is wrong formatted",
         "Make sure, the amount of offers of the skin on the market is not higher than 2500. This makes it easier for us to find your skin.": "Make sure, the amount of offers of the skin on the market is not higher than 2500. This makes it easier for us to find your skin.",
-        "See your requested skins": "See your requested skins"
+        "See your requested skins": "See your requested skins",
+        "Payment-welcome-en.jpg": "Payment-welcome-en.jpg"
     }
 }

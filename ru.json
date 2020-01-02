@@ -209,6 +209,7 @@
         "Standoff 2 ID update not allowed": "Ошибка. Невозможно изменить Standoff 2 ID ",
         "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Неверный формат. ID состоит из 8 цифр.",
         "Standoff 2 ID is wrong formatted": "Укажите Standoff 2 ID в корректном формате",
-        "See your requested skins": "Посмотреть запрошенные на вывод скины"
+        "See your requested skins": "Посмотреть запрошенные на вывод скины",
+        "Payment-welcome-en.jpg": "Payment-welcome-ru.jpg"
     }
 }
