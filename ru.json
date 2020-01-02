@@ -101,7 +101,7 @@
         "Download this generated picture and use it on your Standoff 2 account": "Скачайте эту сгенерированную картинку и спользуйте в качестве аватара в своём Standoff 2 account",
         "Now, sell a skin (worth at least x-factor) on the market for": "Теперь скин на маркете.",
         "Finally, take a screenshot of the marketplace entry and upload it here": "Сделайте скриншот выложенного скина и залейте его сюда",
-        "Wait until you get notified and a staff member transfered your Gold": "Готово! Скоро вы получите уведмоление о том, что наш представитель перечислил вам золото",
+        "Wait until you get notified and a staff member transfered your Gold": "Ожидайте. Очень скоро наш администратор перечислит вам золото и вы получите уведомление об этом",
         "Public view": "Как мою страницу видят другие пользователи",
         "Items": "Предметы",
         "Payment via": "Заплатить с помощью",
@@ -163,7 +163,7 @@
         "BLUE ICE": "Сибирский холод",
         "Astronaut": "Киберпанк",
         "Neon Rider": "Неоновый Урбан",
-        "AK DREAM": "AK 47 forever",
+        "AK DREAM": "Кейс Калашникова",
         "10 % Knife": "10% на дроп ножа",
         "Stick it!": "Стикер Кейс",
         "Free": "Бесплатный Кейс",
@@ -209,6 +209,6 @@
         "Standoff 2 ID update not allowed": "Ошибка. Невозможно изменить Standoff 2 ID ",
         "Wrong formatted. The ID has to be 8 characters long and only contain numbers.": "Неверный формат. ID состоит из 8 цифр.",
         "Standoff 2 ID is wrong formatted": "Укажите Standoff 2 ID в корректном формате",
-        "See your requested skins": "See your requested skins"
+        "See your requested skins": "Посмотреть запрошенные на вывод скины"
     }
 }
