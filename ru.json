@@ -211,5 +211,25 @@
         "Standoff 2 ID is wrong formatted": "Укажите Standoff 2 ID в корректном формате",
         "See your requested skins": "Посмотреть запрошенные на вывод скины",
         "Payment-welcome-en.jpg": "Payment-welcome-ru.jpg"
+        "Best Deal" : "Лучшее предложение"
+        "Silver Coin Cases" : "Кейсы за серебрянные монеты"
+        "Free Cases" : "Бесплатные кейсы"
+        "2 Hour Daily" : "Бесплатно каждые 2 часа"
+        "DAILY Free" : "Ежедневный бесплатный кейс"
+        "Checkout" : "Корзина"
+        "Have a coupon? Click here to enter your code" : "У вас есть промокод? Нажмите сюда, чтобы ввести его"
+        "Company address" : "Адрес компании"
+        "Billing details" : "Почта для получения квитанции об оплате"
+         "Your order" : "Ваш заказ" 
+         "Edit order" : "Внести изменения в заказ"
+        "Product" : "Товар"
+        "Coins" : "Монеты" 
+        "Subtotal" : "Промежуточный итог"
+        "Total" : "Итог" 
+        "Russian Knife Roulette" : "Русская рулетка" 
+        "CLASSIC SILVER" : " Серебрянный кейс" 
+        "Poor Silver" : "Серебрянный кейс эконом" 
+        
+"
     }
 }
