@@ -189,7 +189,6 @@
         "VK FOLLOWER": "кейс за подписку VK",
         "INSTA FOLLOWER": "кейс за подписку в Instagram",
         "Make sure, the amount of offers of the skin on the market is not higher than 2500. This makes it easier for us to find your skin.": "Пожалуйста, убедитесь, что количество предложений на рынке не превышает 2 500 для выставленного вами предмета.",
-        "Gold value": " Стоимость в золоте",
         "Reload": "Перезагрузить",
         "Welcome to EasyTrade": "Приветствуем вас на EasyTrade.bet",
         "Get more information": "Узнать больше",
@@ -228,13 +227,12 @@
         "Total": "Итог",
         "Russian Knife Roulette": "Русская рулетка",
         "CLASSIC SILVER": " Серебрянный кейс",
-        "Poor Silver": "Серебрянный кейс эконом"
-        "Spotlight" : " В центре внимания"
-        "BABY YODA" : " Малыш Йода"
-        "SMUDGE THE CAT" : "Озадаченный кот"
-        "Cyberpunk" : "Киберпанк" 
-        "Gold value" : "Стоимость в золоте"
-        "Gold + 20%" : "Золото + 20%" 
-
+        "Poor Silver": "Серебрянный кейс эконом",
+        "Spotlight": " В центре внимания",
+        "BABY YODA": " Малыш Йода",
+        "SMUDGE THE CAT": "Озадаченный кот",
+        "Cyberpunk": "Киберпанк",
+        "Gold value": "Стоимость в золоте",
+        "Gold + 20%": "Золото + 20%"
     }
 }
