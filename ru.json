@@ -99,7 +99,7 @@
         "Lock": "Лочить",
         "Close ticket and unlock": "Закрыть заявку и разлочить",
         "Screenshot of user's marketplace entry": "Скриншот заявки пользователя с маркета",
-        "Download this generated picture and use it on your Standoff 2 account": "Скачайте эту сгенерированную картинку и спользуйте в качестве аватара в своём Standoff 2 account",
+        "Download this generated picture and use it on your Standoff 2 account": "Скачайте эту сгенерированную картинку и установите ее на аватар в своём Standoff 2 account",
         "Now, sell a skin (worth at least x-factor) on the market for": "Теперь скин на маркете.",
         "Finally, take a screenshot of the marketplace entry and upload it here": "Сделайте скриншот выложенного скина и залейте его сюда",
         "Wait until you get notified and a staff member transfered your Gold": "Ожидайте. Очень скоро наш администратор перечислит вам золото и вы получите уведомление об этом",
@@ -234,5 +234,7 @@
         "Cyberpunk": "Киберпанк",
         "Gold value": "Стоимость в золоте",
         "Gold + 20%": "Золото + 20%"
+        "Have a coupon? You can apply it on the next step!" " У вас есть промокод? Вы сможете ввести его, когда перейдете в корзину"
+        "Drag & Drop your files or browse" : " Перетащите или залейте скриншот сюда"
     }
 }
