@@ -46,7 +46,7 @@
         "Request transaction for selected items": "Запросить вывод выбранных предметов",
         "Please wait": "Пожалуйста, подождите...",
         "opened cases": "Открытые кейсы",
-        "registered users": "зарегестрированные пользователи",
+        "registered users": "аккаунтов создано",
         "online users": "пользователей онлайн",
         "Your Standoff 2 account": "Твой Standoff2 аккаунт",
         "STANDOFF2_ID_DUPLICATE": "Этот ID уже используется другим пользователем",
@@ -239,5 +239,14 @@
         "Universe": "Галактика",
         "GOLDEN WIN": "Всё или ничего",
         "Crystal Karambit": "Кристалический кейс"
+        "Knives" : " Ножевые кейсы"
+        "99 Coin Cases" : "Кейсы за 99 монет"
+        "SPIDER MAN" : " Кейс человека паука"
+        "KING KNIFE ROULETTE" : "Королевский кейс с ножами"
+        "YOUR CRUSH" : "Есть одна тян"
+        "AKR DREAM" : "Кейс Калашникова"
+        "Open for" : "Открыть за"
+        "Gold coins" : "золотых монет"
+         
     }
 }
